@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Python
 venv/
 __pycache__/
@@ -19,7 +19,6 @@ aws_dataset/
 
 # Mac OS
 .DS_Store
-=======
 
 aws_configs/
 aws_dataset.zip
@@ -28,4 +27,5 @@ __pycache_
 nohup.out
 checkov_warnings.log
 
->>>>>>> adcef0d83abf595f5d5e15b1641b958a5db9f5f7
+
+inference/.env

@@ -1,0 +1,10 @@
+torch
+torch_geometric
+numpy
+scikit-learn
+requests
+python-dotenv
+python-hcl2
+flask
+flask-cors
+networkx
